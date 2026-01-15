@@ -19,10 +19,10 @@ exports the results to a CSV file.
 ```bash
 pip install -r requirements.txt
 python analyzer.py
- ## Example Output
 
-## After running:
+## Example Output
+
+After running the script:
 
 ```bash
 python analyzer.py
-
