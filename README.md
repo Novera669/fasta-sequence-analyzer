@@ -21,7 +21,6 @@ pip install -r requirements.txt
 python analyzer.py
 
 ## Example Output
-
 After running the script:
 
 ```bash
